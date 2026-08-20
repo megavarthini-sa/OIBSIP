@@ -1,4 +1,4 @@
-## Smart ATM
+## ATM Interface
 
 ## About the Project
 
