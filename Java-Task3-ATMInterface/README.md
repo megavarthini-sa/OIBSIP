@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Smart ATM is a console-based ATM simulation application developed using Java as part of the **Oasis Infobyte Java Development Internship**.
+ATM Interface is a console-based ATM simulation application developed using Java as part of the **Oasis Infobyte Java Development Internship**.
 
 The application simulates the basic functionality of an Automated Teller Machine (ATM). Users can securely authenticate using their User ID and PIN and perform common banking operations such as checking their balance, depositing money, withdrawing money, transferring funds, and viewing transaction history.
 
@@ -44,7 +44,10 @@ Allows the user to withdraw money from their account after checking the availabl
 ### 5. Transfer
 Allows the user to transfer money to another account.
 
-### 6. Logout
+### 6. Change PIN
+Allows the user to change their PIN.
+
+### 7. Logout
 Allows the user to securely exit the ATM session.
 
 ## Authentication
